@@ -1,0 +1,8 @@
+ACT/** filter=lfs diff=lfs merge=lfs -text
+CamSpec12_6v/** filter=lfs diff=lfs merge=lfs -text
+CamSpec12_6v_n_ACT/** filter=lfs diff=lfs merge=lfs -text
+CamSpec12_6v_n_SPT/** filter=lfs diff=lfs merge=lfs -text
+chains/** filter=lfs diff=lfs merge=lfs -text
+Posterior_plots/** filter=lfs diff=lfs merge=lfs -text
+Power_spectum_confidence_interval/** filter=lfs diff=lfs merge=lfs -text
+SPT/** filter=lfs diff=lfs merge=lfs -text
